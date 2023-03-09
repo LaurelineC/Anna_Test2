@@ -13,4 +13,4 @@ Mais également découvrir le fonctionnement de git.
 
 ![](https://www.01gifs.com/smileys/reflexion/1.gif)
 
-essai proxy
+essai
